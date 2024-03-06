@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+
+    <string name="article_name">Artikel</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="article_desc">desc</string>
+    <string name="article_title">title</string>
+    <string name="about">About</string>
+
+    <string name="name">Nama</string>
+    <string name="ttl">TTL</string>
+    <string name="me">fotoku</string>
+
+
+<!--    <drawable name="my_photo">fotoku.jpg</drawable>-->
+
+
+    <string-array name="data_name">
+        <item>Mahasiswa UNY Kembangkan Game Minepolis untuk Literasi Lalu Lintas</item>
+        <item>Drama Sami (Ngadenge Tapi Teu Ngadenge)</item>
+        <item>Kode Redeem Genshin Impact Baru! Segera Ambil 300 Primogems Gratis Maret 2024</item>
+        <item>Strategi ekonomi Politik Brilian Rusia Sebagai Penyelenggara Game of Future 2024 di Bidang Keolahragaan Modern</item>
+        <item>Mengenal Hari Pokemon Sedunia, Berikut Sejarah dan Asal-usulnya!</item>
+        <item>Rekomendasi HP dibawah 4 juta untuk bermain game Genshin Impact</item>
+        <item>TIM FF Bursa Gaet Juara E-Sport 2024</item>
+        <item>Mengungkap Game Terlaris Sepanjang Masa: Kesuksesan Minecraft</item>
+        <item>Kulik dan Snap Ash Game: Media Edukasi Hasil Kreatifitas KKN-P Kelompok 69 UMSIDA dalam Mendukung Pembelajaran Siswa Madrasah Diniyah Desa Gendro</item>
+        <item>Kecurangan Sistem Berpengaruh Terhadap Sikap Impulsif Seorang Player</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/minepolis</item>
+        <item>@drawable/sami</item>
+        <item>@drawable/redem_gi</item>
+        <item>@drawable/game_of_future</item>
+        <item>@drawable/pokemon</item>
+        <item>@drawable/rekomen_hp</item>
+        <item>@drawable/tim_epep</item>
+        <item>@drawable/micecrap</item>
+        <item>@drawable/snap_ash</item>
+        <item>@drawable/curang</item>
+    </integer-array>
+
+    <string-array name="data_description">
+        <item>Depok---Tiga mahasiswa Universitas Negeri Yogyakarta (UNY) berhasil membuat game edukasi bernama Minepolis, yang merupakan modifikasi dari game Minecraft yang populer, yang bertujuan untuk meningkatkan literasi lalu lintas bagi siswa SMP.Minepolis adalah game yang menawarkan materi literasi lalu lintas yang menarik dan interaktif dengan menggunakan media Minecraft, yang telah dikenal oleh banyak remaja. Ardi Setyawardana, Yudi Utomo, dan Berlian Ardianti, mahasiswa Program Studi Pendidikan Bahasa dan Sastra Indonesia UNY, adalah pencipta game ini.</item>
+
+        <item>Ketertarikanku untuk datang menonton drama yang dimainkan oleh anak-anak SMA Garawangi, Kecamatan Garawangi Kabupaten Kuningan Jawa Barat. Anak-anak yang merupakan anggota Teater istunInk yang diasuh oleh Kang Ebod Espede. Bermula dari judulnya yang unik,"Sami, Ngadenge tapi Teu Ngadenge" dalam Bahasa Indonesia yang berarti Sami (nama tokoh) Ngadenge tapi Teu Ngadenge (mendengar tapi tak mendengar).</item>
+
+        <item>DAKTDBWTZTYR : 100 Primogems dan 10 Mystic Enhancement Ore. AT3BDSWTYBKD : 100 Primogems dan 5 Heros Wit. 5TKAUAWAGBJR : 100 Primogems dan 50,000 Mora</item>
+
+        <item>Seiring berkembangnya zaman, kegiatan keolahragaan juga mulai mengalami perkembangan dalam pengimplementasiannya terutama dalam kegiatan olahraga non fisik. Perkembangan itu semuanya berbasis digital dan di masa sekarang dikenal sebagai E-sport. Basis digital ini berupa vidio game sebagai jenis permainan yang nantinya akan dipertandingkan Bersama orang lain. efek digitalisasi ini juga memunculkan berbagai jenis permainan dengan berbagai gaya permainan yang bervariasi, sehingga tidak  heran para generasi muda sangat tertarik dan antusias terhadap jenis keolahragaan ini. Fenomena ini terjadi di berbagai belahan dunia hingga fenomena ini menjadi perhatian pemerintah RusiaPemerintah Rusia merespon fenomena ini dengan mendukung segala bentuk kegiatan yang diselenggarakan oleh federasi olahraga fisik seluruh Rusia (VFFS). Adanya dukungan pemerintah Rusia inilah yang pada akhirnya menciptakan sebuah acara besar di bidang keolahragaan berskala Internasional dengan mempertandingkan jenis olahraga fisik dan olahraga non fisik berbasis digital bernama Game of the Future 2024.</item>
+
+        <item>Fenomena Pokemon tidak pernah hilang dan tidak akan pernah hilang. Baru beberapa tahun berlalu sejak kegilaan Pokemon datang dan dianggap sudah hilang, namun kegemaran akan Pokemon masih terus berlanjut hingga sekarang.Hari ini tepat pada 27 Februari 2024 dinyartakan sebagai Hari Pokemon Nasional. Kalian pasti bertanya-tanya asal muasal Pokemon yang muncuk pada tahun 1996, mungkin kalian juga bertanya-tanya bagaimana cara merayakan festival ini dengan menyenangkan?. Mari kita telusuri lebih dekat tentang Hari Pokmon Nasional.</item>
+
+        <item>Disini mimin akan memberikan spesifikasi yang di rekomendasikan untuk bermain game genshin impact yaitu:-Minimal RAM 6GB Disini mimin merekomendasikan RAM 6GB, kenapa? Karena genshin impact ini termasuk game yang berat, jika menggunakan RAM 4GB, tentu saja ponsel kalian akan keberatan untuk menjalankan game tersebut dengan lancar, dan tentu saja mudahnya terjadinya lagging pada ponsel anda.-Operating system (OS), OS adalah sistem operasi yang terpasang pada ponsel digunakan untuk menjalankan tindakan atau perintah yang ada pada perangkat tersebut. Disini mimin akan merekomendasikan OS yang paling baru, karena semakin baru maka ponsel tersebut memiliki update yang jangka panjang serta mendapatkan perbaikan-perbaikan bug. -Penyimpanan, Karena di game genshin impact ini memiliki ukuran 30GB lebih, maka disini mimin akan merekomendasikan kalian untuk mencari ponsel dengan penyimpanan minimal 128GB. Karena penyimpanan dengan 128GB, ponsel kalian masih punya penyimpanan yang cukup banyak jika sudah menginstall game genshin impact.</item>
+
+        <item>Kegandrungan anak-anak khusus pada game FF tidak bisa dicegah sehingga bila tidak diarahkan maka mereka akan lupa belajar. UPTD SMPN 1 Bungursari mengapresiasi penyelenggara E-Sport  dengan mengirimkan tim FF pada hari sabtu 24/02/2024 dalam event YPK77 Campetition Tournamen E-Sport Siswa SMP Se-Purwakarta dan Sekitarnya sekaligus untuk menyalurkan minat siswa. Kegiatan ini disponsori oleh Dunia Game, WINGS dan CV. HPU.Tim dari UPTD SMPN 1 Bungursari akhirnya menggaet juara 2 dalam event itu. Seperti keterangan dari Andri Mardiati Rahayu PKS Kesiswaan beliau menyampaikan bahwa "Anak-anak ternyata kalo main game jago ya, Tim FF dari Bungursari Candra 9e,  Marvino 9g, Hasbi 9 dan Refan 9f mendapat juara ke 2 Lomba game FF di SMK YPK"  jelasnya menggebu. Hasil dari kepiawaian mereka mendapatkan piala, hadiah hiburan dan uang cash sebesar Rp. 750.000,- Tentunya  hadiah bukan menjadi tujuan tapi yang lebih utama adalah sekolah sebagai lembaga pendidikan dapat menyalurkan potensi siswa sesuai dengan minatnya secara positif.</item>
+
+        <item>Di dunia video game yang luas dan terus berkembang, ada beberapa orang terpilih yang telah melampaui hiburan belaka untuk menjadi fenomena budaya. Di antara raksasa yang menjulang tinggi ini berdiri "Minecraft," sebuah permainan yang telah merebut hati dan imajinasi jutaan orang di seluruh dunia. Dengan lanskap pixelated dan kreativitas tanpa batas, "Minecraft" tidak hanya memecahkan rekor penjualan tetapi juga meninggalkan jejak yang tak terhapuskan pada budaya populer. Mari kita memulai perjalanan untuk menjelajahi kebangkitan luar biasa dari game terlaris sepanjang masa.Kelahiran Alam Semesta Kotak-kotak:"Minecraft" pertama kali muncul ke kancah game pada tahun 2009, gagasan pengembang Swedia Markus Persson, yang dikenal sebagai Notch. Awalnya dirilis sebagai game sandbox indie, "Minecraft" menghadirkan pemain dengan dunia yang dihasilkan secara prosedural yang seluruhnya terdiri dari blok. Dari awal yang sederhana, pemain dapat menambang sumber daya, alat kerajinan, dan membangun struktur desain mereka sendiri, hanya dibatasi oleh imajinasi mereka. Apa yang dimulai sebagai proyek gairah segera menarik perhatian para gamer di seluruh dunia, memicu fenomena yang akan membentuk kembali lanskap game.</item>
+
+        <item>Mahasiswa KKN-P kelompok 69 Universitas Muhammadiyah Sidoarjo (Umsida) unjuk kreatifitas pada program kerja unggulan di bidang pendidikan melalui media pembelajaran edukatif "Kulik dan Snap Ash Game". Pembelajaran dengan metode bermain dan belajar dilakukan di madrasah diniyah din desa gendro pada Senin, (19/02/2023)."Kulik Game" merupakan media pembelajaran edukatif yang terinspirasi dari permainan anak-anak ular tangga. "Kulik Game" atau "Kuis Tauhid di Balik Kartu" merupakan media edukasi yang mengangkat tema pembelajaran tauhid. Media edukasi "Kulik Game" memberikan pengalaman belajar yang menyenangkan melalui permainan yang berisi pertanyaan-pertanyaan singkat seputar pembelajaran tauhid. Selain memberikan pengalaman belajar yang menyenangkan, "Kulik Game" atau "Kuis Tauhid di Balik Kartu" melatih para peserta didik untuk bersikap kolaboratif dengan guru dan teman-temannya serta kompetitif dalam ranah positif guna menyelesaikan setiap misi yang telah diberikan.</item>
+
+        <item>Teknologi telah membawa dampak besar pada kehidupan manusia, baik secara positif maupun negatif. Salah satu dampak negatif yang sering dibicarakan adalah kecanduan game. Kecanduan game dapat memengaruhi kesehatan fisik dan mental seseorang, mengganggu hubungan interpersonal, serta mengganggu produktivitas.Seperti di zaman sekarang game online yang terkenal dikalangan anak muda ini adalah Mobile Legends, game yang berbasis pvp ini merupakan makanan bagi anak-anak remaja, kemenangan dan kekalahan tentu sudah wajar berada dalam permainan game online, namun remaja sering kali terobsesi dengan kemenangan dalam game online dengan tujuan untuk menambah grafik kemenangan dan level yang tinggi. Walaupun merupakan game favorit dengan penggunaan yang masif. Dark Sistem seringkali disebut oleh para player yang dirugikan, namun bukti adanya dark sistem ini masih dikatakan mitos.
+</item>
+
+    </string-array>
+</resources>
